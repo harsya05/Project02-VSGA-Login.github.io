@@ -10,10 +10,8 @@ function cekLogin() {
     messageContainer.innerHTML =
       "<p class='error-message'>Password atau Email Salah !</p>";
   } else {
-    messageContainer.innerHTML = "<p class='succes-message'>Login Berhasil</p>";
-    setTimeout(() = {
-   window.location.href ="https://harsya05.github.io/-Project02-VSGA-Order.github.io/"
-}, 3000) ;
+    messageContainer.innerHTML = 
+    "<p class='succes-message'>Login Berhasil</p>";
   }
 }
 function myFunction() {
