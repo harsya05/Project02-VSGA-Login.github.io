@@ -12,6 +12,10 @@ function cekLogin() {
   } else {
     messageContainer.innerHTML = 
     "<p class='succes-message'>Login Berhasil</p>";
+
+    setTimeout(() = {
+   window.location.href ="https://harsya05.github.io/-Project02-VSGA-Order.github.io/"
+}, 5000) 
   }
 }
 function myFunction() {
