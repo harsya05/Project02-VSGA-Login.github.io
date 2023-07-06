@@ -13,9 +13,9 @@ function cekLogin() {
     messageContainer.innerHTML = 
     "<p class='succes-message'>Login Berhasil</p>";
 
-    setTimeout(() = {
+    setTimeout(() => {
    window.location.href ="https://harsya05.github.io/-Project02-VSGA-Order.github.io/"
-}, 5000) 
+}, 2000) 
   }
 }
 function myFunction() {
